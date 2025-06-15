@@ -1,4 +1,8 @@
 #include <stdio.h>
+int maim(){
+
+    prinf("Desafio xadrez!", \n);
+}
 
 // Desafio de Xadrez - MateCheck
 // Este código inicial serve como base para o desenvolvimento do sistema de movimentação das peças de xadrez.
