@@ -2,6 +2,7 @@
 int maim(){
 
     prinf("Desafio xadrez!", \n);
+    prinf("Novo comit");
 }
 
 // Desafio de Xadrez - MateCheck
